@@ -2,7 +2,7 @@
 
 #### I'm a Full Stack Developer.
 
-##### I can Building Web apps and Backend API.
+##### I'm building Web apps and Backend API.
 
 ##### Proficient in the Javascript Stack.
 
