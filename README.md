@@ -21,12 +21,6 @@
 - [Twitter](https://twitter.com/thenglongheng)
 - [Github](https://github.com/thenglong)
 
-## Github Stats ⚡
-
-<a href="https://github.com/thenglong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenglong&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
-</a>
-
 ## My Projects 📁
 
 - [**Nham avey(In Progress)**](https://github.com/thenglong/nham-avey): Modern Food delivery Web App
